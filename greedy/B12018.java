@@ -1,5 +1,5 @@
 /*
-* 백준 12018 Yonsei TOTO
+* 백준 S3 12018 Yonsei TOTO
 * https://www.acmicpc.net/problem/12018
 * */
 
