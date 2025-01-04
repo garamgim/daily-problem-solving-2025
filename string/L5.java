@@ -1,8 +1,8 @@
 /*
  * LeetCode Medium 5 Longest Palindromic Substring
  * https://leetcode.com/problems/longest-palindromic-substring/description/
- * This is O(N^2) solution
- * For O(N) solution, check Manacher's Algorithm
+ * O(N^2)
+ * For O(N) solution -> Manacher's Algorithm
  * */
 
 public class L5 {
