@@ -8,7 +8,7 @@ import java.util.Deque;
 import java.util.HashMap;
 import java.util.HashSet;
 
-public class L316 {
+public class L316R {
     class Solution {
         public String removeDuplicateLetters(String s) {
             // 각 문자의 등장 횟수를 저장하는 HashMap
