@@ -6,7 +6,7 @@
 import java.util.*;
 import java.io.*;
 
-public class B2457 {
+public class B2457R {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());    // 꽃의 개수 입력
