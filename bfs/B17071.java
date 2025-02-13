@@ -1,3 +1,8 @@
+/*
+ * 백준 P5 17071 숨바꼭질 5
+ * https://www.acmicpc.net/problem/17071
+ * */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
